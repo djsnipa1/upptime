@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 26
+    "time": 34
   },
   {
     "name": "Writeguard",
@@ -13,7 +13,7 @@
     "slug": "writeguard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 329
+    "time": 276
   },
   {
     "name": "Hacker News",
@@ -21,22 +21,6 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "time": 206
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
+    "time": 268
   }
 ]
