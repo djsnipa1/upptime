@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 57
+    "time": 65
   },
   {
     "name": "Writeguard",
@@ -13,7 +13,7 @@
     "slug": "writeguard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 357
+    "time": 470
   },
   {
     "name": "Hacker News",
@@ -21,6 +21,6 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "time": 339
+    "time": 345
   }
 ]
