@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 62,
-    "timeWeek": 62,
-    "timeMonth": 69,
-    "timeYear": 69
+    "time": 71,
+    "timeDay": 95,
+    "timeWeek": 67,
+    "timeMonth": 71,
+    "timeYear": 71
   },
   {
     "name": "Writeguard",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 354,
-    "timeWeek": 435,
-    "timeMonth": 449,
-    "timeYear": 449
+    "time": 469,
+    "timeDay": 708,
+    "timeWeek": 502,
+    "timeMonth": 469,
+    "timeYear": 469
   },
   {
     "name": "Hacker News",
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 453,
-    "timeWeek": 369,
-    "timeMonth": 388,
-    "timeYear": 388
+    "time": 376,
+    "timeDay": 236,
+    "timeWeek": 337,
+    "timeMonth": 376,
+    "timeYear": 376
   }
 ]
