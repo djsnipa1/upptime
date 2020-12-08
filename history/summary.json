@@ -2,6 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
+    "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -10,14 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 75,
-    "timeWeek": 69,
+    "timeDay": 72,
+    "timeWeek": 68,
     "timeMonth": 71,
-    "timeYear": 71
+    "timeYear": 71,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Writeguard",
     "url": "https://www.writeguard.com",
+    "icon": "https://favicons.githubusercontent.com/www.writeguard.com",
     "slug": "writeguard",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 655,
-    "timeWeek": 563,
-    "timeMonth": 483,
-    "timeYear": 483
+    "time": 471,
+    "timeDay": 314,
+    "timeWeek": 510,
+    "timeMonth": 471,
+    "timeYear": 471,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
+    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
@@ -41,10 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 238,
-    "timeWeek": 320,
-    "timeMonth": 367,
-    "timeYear": 367
+    "time": 376,
+    "timeDay": 507,
+    "timeWeek": 361,
+    "timeMonth": 376,
+    "timeYear": 376,
+    "dailyMinutesDown": {}
   }
 ]
