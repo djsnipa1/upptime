@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 61,
+    "time": 78,
+    "timeDay": 65,
     "timeWeek": 94,
-    "timeMonth": 79,
-    "timeYear": 79,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/www.writeguard.com",
     "slug": "writeguard",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 513,
-    "timeDay": 231,
-    "timeWeek": 587,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 501,
+    "timeDay": 273,
+    "timeWeek": 577,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2020-12-09": 47
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 322,
-    "timeWeek": 388,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "time": 391,
+    "timeDay": 502,
+    "timeWeek": 395,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   }
 ]
