@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 77,
-    "timeDay": 59,
-    "timeWeek": 59,
+    "timeDay": 63,
+    "timeWeek": 58,
     "timeMonth": 78,
     "timeYear": 77,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/www.writeguard.com",
     "slug": "writeguard",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.90%",
-    "time": 445,
-    "timeDay": 224,
-    "timeWeek": 280,
-    "timeMonth": 454,
-    "timeYear": 445,
+    "uptimeYear": "99.91%",
+    "time": 446,
+    "timeDay": 476,
+    "timeWeek": 296,
+    "timeMonth": 455,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2020-12-09": 47
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
-    "timeDay": 664,
-    "timeWeek": 480,
-    "timeMonth": 411,
+    "timeDay": 402,
+    "timeWeek": 464,
+    "timeMonth": 410,
     "timeYear": 411,
     "dailyMinutesDown": {}
   }
