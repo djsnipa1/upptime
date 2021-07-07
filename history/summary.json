@@ -46,19 +46,19 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 76,
-    "timeDay": 252,
-    "timeWeek": 126,
-    "timeMonth": 91,
+    "timeDay": 191,
+    "timeWeek": 119,
+    "timeMonth": 90,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2021-07-07": 0
+      "2021-07-07": 21
     }
   },
   {
