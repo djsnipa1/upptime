@@ -96,9 +96,9 @@
     "url": "https://pastery.net",
     "icon": "https://favicons.githubusercontent.com/pastery.net",
     "slug": "pastery-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +107,8 @@
     "timeWeek": 1283,
     "timeMonth": 1155,
     "timeYear": 1162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-05": 0
+    }
   }
 ]
