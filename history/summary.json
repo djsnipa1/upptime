@@ -4,9 +4,9 @@
     "url": "https://www.writeguard.com",
     "icon": "https://favicons.githubusercontent.com/www.writeguard.com",
     "slug": "writeguard",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "69.54%",
+    "uptimeDay": "70.29%",
     "uptimeWeek": "87.30%",
     "uptimeMonth": "95.47%",
     "uptimeYear": "98.42%",
@@ -57,8 +57,7 @@
       "2021-10-02": 16,
       "2021-09-26": 16,
       "2021-09-02": 24,
-      "2021-08-08": 28,
-      "2021-08-01": 30
+      "2021-08-08": 28
     }
   },
   {
