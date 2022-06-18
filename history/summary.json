@@ -4,11 +4,11 @@
     "url": "https://www.writeguard.com",
     "icon": "https://favicons.githubusercontent.com/www.writeguard.com",
     "slug": "writeguard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
     "uptimeDay": "32.36%",
     "uptimeWeek": "50.72%",
-    "uptimeMonth": "85.31%",
+    "uptimeMonth": "85.40%",
     "uptimeYear": "98.78%",
     "time": 883,
     "timeDay": 1008,
@@ -25,7 +25,7 @@
       "2022-06-12": 851,
       "2022-06-11": 696,
       "2022-06-10": 585,
-      "2022-06-09": 212
+      "2022-06-09": 175
     }
   },
   {
