@@ -6,24 +6,24 @@
     "slug": "writeguard",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "54.91%",
-    "uptimeWeek": "58.44%",
-    "uptimeMonth": "89.88%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "62.46%",
+    "uptimeWeek": "59.86%",
+    "uptimeMonth": "89.85%",
+    "uptimeYear": "99.15%",
     "time": 991,
     "timeDay": 778,
-    "timeWeek": 999,
-    "timeMonth": 1266,
+    "timeWeek": 1004,
+    "timeMonth": 1267,
     "timeYear": 1037,
     "dailyMinutesDown": {
-      "2022-07-11": 644,
+      "2022-07-11": 641,
       "2022-07-10": 687,
       "2022-07-09": 447,
       "2022-07-08": 565,
       "2022-07-07": 469,
       "2022-07-06": 592,
       "2022-07-05": 746,
-      "2022-07-04": 283
+      "2022-07-04": 299
     }
   },
   {
