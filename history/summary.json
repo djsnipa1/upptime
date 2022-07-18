@@ -4,15 +4,15 @@
     "url": "https://www.writeguard.com",
     "icon": "https://favicons.githubusercontent.com/www.writeguard.com",
     "slug": "writeguard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "49.02%",
+    "uptimeDay": "51.25%",
     "uptimeWeek": "40.30%",
-    "uptimeMonth": "82.89%",
-    "uptimeYear": "98.57%",
+    "uptimeMonth": "82.93%",
+    "uptimeYear": "98.58%",
     "time": 1007,
-    "timeDay": 946,
-    "timeWeek": 914,
+    "timeDay": 966,
+    "timeWeek": 921,
     "timeMonth": 1159,
     "timeYear": 1031,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
       "2022-07-12": 557,
       "2022-07-11": 641,
       "2022-07-10": 687,
-      "2022-07-09": 318
+      "2022-07-09": 299
     }
   },
   {
