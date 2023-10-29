@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "81.18%",
+    "uptime": "81.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.08%",
-    "time": 1036,
+    "uptimeYear": "44.81%",
+    "time": 1037,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1180,
+    "timeYear": 1174,
     "dailyMinutesDown": {
-      "2023-10-28": 53,
+      "2023-10-29": 58,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -265,8 +266,7 @@
       "2022-11-06": 251,
       "2022-11-05": 146,
       "2022-10-31": 23,
-      "2022-10-30": 52,
-      "2022-10-29": 17
+      "2022-10-30": 52
     }
   },
   {
@@ -281,10 +281,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 74,
+    "timeDay": 91,
     "timeWeek": 206,
     "timeMonth": 165,
-    "timeYear": 112,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   },
   {
@@ -299,9 +299,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 297,
-    "timeDay": 247,
-    "timeWeek": 233,
-    "timeMonth": 266,
+    "timeDay": 281,
+    "timeWeek": 256,
+    "timeMonth": 267,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2023-09-13": 23,
@@ -330,9 +330,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
-    "time": 1249,
-    "timeDay": 1375,
-    "timeWeek": 1437,
+    "time": 1251,
+    "timeDay": 1415,
+    "timeWeek": 1411,
     "timeMonth": 1301,
     "timeYear": 1240,
     "dailyMinutesDown": {
