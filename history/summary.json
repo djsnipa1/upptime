@@ -14,9 +14,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1216,
+    "timeYear": 1218,
     "dailyMinutesDown": {
-      "2023-12-08": 789,
+      "2023-12-08": 797,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
@@ -297,19 +297,19 @@
     "url": "https://bin.djsnipa1.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
-    "status": "down",
-    "uptime": "70.10%",
-    "uptimeDay": "70.10%",
-    "uptimeWeek": "70.10%",
-    "uptimeMonth": "70.10%",
-    "uptimeYear": "70.10%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "11.79%",
+    "uptimeDay": "11.79%",
+    "uptimeWeek": "11.79%",
+    "uptimeMonth": "11.79%",
+    "uptimeYear": "11.79%",
+    "time": 539,
+    "timeDay": 539,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2023-12-08": 0
+      "2023-12-08": 9
     }
   },
   {
