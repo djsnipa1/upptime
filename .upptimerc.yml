@@ -6,10 +6,10 @@ repo: upptime # Your Github repository name
 sites:
   - name: Writeguard
     url: https://www.writeguard.com
-  - name: Google
-    url: https://www.google.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: bin
+    url: https://bin.djsnipa1.repl.co
+  - name: lynx.re
+    url: https://lynx.re
   - name: Pastery.net
     url: https://pastery.net
 #  - name: Broken Site
