@@ -9,14 +9,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.64%",
+    "uptimeYear": "25.63%",
     "time": 1253,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1285,
     "dailyMinutesDown": {
-      "2024-01-07": 1435,
+      "2024-01-08": 59,
+      "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -321,11 +322,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "up",
-    "uptime": "76.70%",
+    "uptime": "76.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "63.69%",
     "uptimeMonth": "76.67%",
-    "uptimeYear": "76.70%",
+    "uptimeYear": "76.73%",
     "time": 1551,
     "timeDay": 470,
     "timeWeek": 729,
@@ -364,18 +365,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lynx.re.ico",
     "slug": "lynx-re",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1525,
     "timeDay": 7663,
     "timeWeek": 3302,
     "timeMonth": 1525,
     "timeYear": 1525,
     "dailyMinutesDown": {
-      "2024-01-07": 0
+      "2024-01-08": 59,
+      "2024-01-07": 5
     }
   },
   {
@@ -407,8 +409,7 @@
       "2023-04-17": 19,
       "2023-04-14": 24,
       "2023-04-10": 18,
-      "2023-01-09": 41,
-      "2023-01-08": 31
+      "2023-01-09": 41
     }
   }
 ]
