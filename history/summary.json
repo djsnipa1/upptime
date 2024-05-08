@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "68.79%",
+    "uptime": "68.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-05-07": 57,
+      "2024-05-08": 48,
+      "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
@@ -379,8 +380,7 @@
       "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
-      "2023-05-10": 1440,
-      "2023-05-09": 1440
+      "2023-05-10": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "up",
-    "uptime": "80.49%",
+    "uptime": "80.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.49%",
-    "time": 1101,
-    "timeDay": 779,
-    "timeWeek": 798,
+    "uptimeYear": "80.62%",
+    "time": 1099,
+    "timeDay": 598,
+    "timeWeek": 775,
     "timeMonth": 973,
-    "timeYear": 1101,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2024-02-07": 1370,
       "2024-02-06": 1440,
@@ -460,11 +460,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 1038,
-    "timeDay": 626,
-    "timeWeek": 3164,
-    "timeMonth": 1443,
-    "timeYear": 1038,
+    "time": 1036,
+    "timeDay": 634,
+    "timeWeek": 3166,
+    "timeMonth": 1442,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2024-04-24": 40,
       "2024-03-08": 17,
@@ -486,19 +486,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1237,
-    "timeDay": 1174,
-    "timeWeek": 1260,
-    "timeMonth": 1290,
-    "timeYear": 1267,
+    "time": 1238,
+    "timeDay": 1267,
+    "timeWeek": 1278,
+    "timeMonth": 1294,
+    "timeYear": 1268,
     "dailyMinutesDown": {
       "2024-03-28": 82,
       "2023-10-10": 57,
       "2023-07-07": 18,
       "2023-05-30": 75,
       "2023-05-22": 18,
-      "2023-05-16": 41,
-      "2023-05-09": 17
+      "2023-05-16": 41
     }
   }
 ]
