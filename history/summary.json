@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "60.60%",
+    "uptime": "60.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-24": 72,
+      "2024-10-25": 73,
+      "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -379,8 +380,7 @@
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
-      "2023-10-27": 1440,
-      "2023-10-26": 1440
+      "2023-10-27": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "up",
-    "uptime": "90.84%",
+    "uptime": "90.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.84%",
+    "uptimeYear": "90.87%",
     "time": 1024,
-    "timeDay": 951,
-    "timeWeek": 816,
-    "timeMonth": 956,
+    "timeDay": 1142,
+    "timeWeek": 906,
+    "timeMonth": 950,
     "timeYear": 1024,
     "dailyMinutesDown": {
       "2024-02-07": 1370,
@@ -460,11 +460,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.84%",
-    "time": 1008,
-    "timeDay": 975,
-    "timeWeek": 772,
-    "timeMonth": 831,
-    "timeYear": 1008,
+    "time": 1007,
+    "timeDay": 784,
+    "timeWeek": 782,
+    "timeMonth": 829,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2024-10-20": 22,
       "2024-10-13": 24,
@@ -501,11 +501,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1304,
-    "timeDay": 1519,
-    "timeWeek": 1296,
-    "timeMonth": 1313,
-    "timeYear": 1293,
+    "time": 1303,
+    "timeDay": 1199,
+    "timeWeek": 1295,
+    "timeMonth": 1304,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2024-03-28": 82
     }
