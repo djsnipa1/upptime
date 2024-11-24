@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "59.36%",
+    "uptime": "59.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-23": 73,
+      "2024-11-24": 81,
+      "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
@@ -379,8 +380,7 @@
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
-      "2023-11-26": 1440,
-      "2023-11-25": 1440
+      "2023-11-26": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "up",
-    "uptime": "91.62%",
+    "uptime": "91.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.62%",
+    "uptimeYear": "91.65%",
     "time": 1022,
-    "timeDay": 1691,
-    "timeWeek": 992,
-    "timeMonth": 998,
+    "timeDay": 837,
+    "timeWeek": 943,
+    "timeMonth": 994,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2024-02-07": 1370,
@@ -460,11 +460,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.85%",
-    "time": 987,
-    "timeDay": 756,
-    "timeWeek": 680,
-    "timeMonth": 741,
-    "timeYear": 987,
+    "time": 986,
+    "timeDay": 611,
+    "timeWeek": 667,
+    "timeMonth": 730,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2024-11-04": 15,
       "2024-10-30": 24,
@@ -503,11 +503,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1307,
-    "timeDay": 1192,
-    "timeWeek": 1132,
-    "timeMonth": 1249,
-    "timeYear": 1290,
+    "time": 1305,
+    "timeDay": 1046,
+    "timeWeek": 1112,
+    "timeMonth": 1234,
+    "timeYear": 1293,
     "dailyMinutesDown": {
       "2024-03-28": 82
     }
