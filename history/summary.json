@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "56.64%",
+    "uptime": "56.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 75,
+      "2025-02-02": 75,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -379,8 +380,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "77.08%",
+    "uptime": "76.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "79.75%",
-    "time": 947,
+    "time": 949,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 918,
+    "timeYear": 920,
     "dailyMinutesDown": {
-      "2025-02-01": 75,
+      "2025-02-02": 75,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -471,8 +472,7 @@
       "2024-02-07": 1370,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -486,10 +486,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.84%",
-    "time": 1002,
-    "timeDay": 753,
-    "timeWeek": 793,
-    "timeMonth": 1292,
+    "time": 1001,
+    "timeDay": 683,
+    "timeWeek": 786,
+    "timeMonth": 1296,
     "timeYear": 972,
     "dailyMinutesDown": {
       "2025-01-21": 18,
@@ -530,11 +530,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1292,
-    "timeDay": 1055,
-    "timeWeek": 1432,
-    "timeMonth": 1326,
-    "timeYear": 1294,
+    "time": 1293,
+    "timeDay": 1072,
+    "timeWeek": 1375,
+    "timeMonth": 1328,
+    "timeYear": 1293,
     "dailyMinutesDown": {
       "2024-03-28": 82
     }
