@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "51.67%",
+    "uptime": "51.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 84,
+      "2025-06-29": 104,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -379,8 +380,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "57.12%",
+    "uptime": "57.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.37%",
-    "time": 928,
+    "uptimeYear": "41.09%",
+    "time": 929,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 948,
+    "timeYear": 950,
     "dailyMinutesDown": {
-      "2025-06-28": 84,
+      "2025-06-29": 104,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -625,14 +626,14 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
     "time": 996,
-    "timeDay": 834,
-    "timeWeek": 793,
-    "timeMonth": 767,
-    "timeYear": 962,
+    "timeDay": 841,
+    "timeWeek": 827,
+    "timeMonth": 750,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2025-06-21": 17,
       "2025-06-19": 61,
@@ -657,8 +658,7 @@
       "2024-09-20": 23,
       "2024-09-05": 72,
       "2024-07-07": 18,
-      "2024-06-30": 77,
-      "2024-06-29": 43
+      "2024-06-30": 77
     }
   },
   {
@@ -672,11 +672,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1494,
-    "timeDay": 1671,
-    "timeWeek": 1373,
-    "timeMonth": 2587,
-    "timeYear": 1579,
+    "time": 1495,
+    "timeDay": 1589,
+    "timeWeek": 1401,
+    "timeMonth": 2019,
+    "timeYear": 1580,
     "dailyMinutesDown": {
       "2025-04-15": 58
     }
