@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "51.58%",
+    "uptime": "51.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-01": 105,
+      "2025-07-02": 87,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -379,8 +380,7 @@
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-03": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "56.82%",
+    "uptime": "56.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "40.54%",
-    "time": 932,
+    "uptimeYear": "40.27%",
+    "time": 931,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 948,
+    "timeYear": 950,
     "dailyMinutesDown": {
-      "2025-07-01": 105,
+      "2025-07-02": 87,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -632,9 +633,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.85%",
     "time": 996,
-    "timeDay": 666,
-    "timeWeek": 777,
-    "timeMonth": 738,
+    "timeDay": 938,
+    "timeWeek": 799,
+    "timeMonth": 747,
     "timeYear": 965,
     "dailyMinutesDown": {
       "2025-06-21": 17,
@@ -673,11 +674,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1495,
-    "timeDay": 1122,
-    "timeWeek": 1333,
-    "timeMonth": 1793,
-    "timeYear": 1579,
+    "time": 1496,
+    "timeDay": 1680,
+    "timeWeek": 1403,
+    "timeMonth": 1771,
+    "timeYear": 1580,
     "dailyMinutesDown": {
       "2025-04-15": 58
     }
