@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "50.29%",
+    "uptime": "50.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-13": 87,
+      "2025-08-14": 87,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -379,8 +380,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "52.83%",
+    "uptime": "52.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.76%",
-    "time": 942,
+    "uptimeYear": "28.49%",
+    "time": 944,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 963,
+    "timeYear": 964,
     "dailyMinutesDown": {
-      "2025-08-13": 87,
+      "2025-08-14": 87,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -675,9 +676,9 @@
     "uptimeMonth": "97.03%",
     "uptimeYear": "99.60%",
     "time": 1032,
-    "timeDay": 648,
-    "timeWeek": 624,
-    "timeMonth": 1316,
+    "timeDay": 916,
+    "timeWeek": 638,
+    "timeMonth": 1322,
     "timeYear": 961,
     "dailyMinutesDown": {
       "2025-07-21": 1250,
@@ -718,11 +719,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1507,
-    "timeDay": 1086,
-    "timeWeek": 1146,
-    "timeMonth": 1252,
-    "timeYear": 1571,
+    "time": 1508,
+    "timeDay": 1821,
+    "timeWeek": 1243,
+    "timeMonth": 1276,
+    "timeYear": 1572,
     "dailyMinutesDown": {
       "2025-04-15": 58
     }
