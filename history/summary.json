@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-10": 399,
+      "2025-09-10": 412,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2025-09-10": 399,
+      "2025-09-10": 412,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -742,19 +742,19 @@
     "url": "https://pastery.net",
     "icon": "https://icons.duckduckgo.com/ip3/pastery.net.ico",
     "slug": "pastery-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1509,
-    "timeDay": 1392,
-    "timeWeek": 1399,
-    "timeMonth": 1305,
-    "timeYear": 1573,
+    "time": 1508,
+    "timeDay": 1258,
+    "timeWeek": 1365,
+    "timeMonth": 1299,
+    "timeYear": 1571,
     "dailyMinutesDown": {
-      "2025-09-10": 0,
+      "2025-09-10": 13,
       "2025-04-15": 58
     }
   }
