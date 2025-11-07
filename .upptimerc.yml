@@ -33,5 +33,25 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+  workflowSchedule:
+    graphs: "0 0 * * *"
+    responseTime: "0 23 * * *"
+    staticSite: "0 1 * * *"
+    summary: "0 0 * * *"
+    updateTemplate: "0 0 * * *"
+    updates: "0 3 * * *"
+    uptime: "0 * * * *"
+#| Task             | Cron Expression   | Scheduled Time (Daily)    |
+#|------------------|-------------------|---------------------------|
+#| `graphs`         | `0 0 * * *`       | 12:00 AM (midnight)       |
+#| `responseTime`   | `0 23 * * *`      | 11:00 PM                  |
+#| `staticSite`     | `0 1 * * *`       | 1:00 AM                   |
+#| `summary`        | `0 0 * * *`       | 12:00 AM (midnight)       |
+#| `updateTemplate` | `0 0 * * *`       | 12:00 AM (midnight)       |
+#| `updates`        | `0 3 * * *`       | 3:00 AM                   |
+#| `uptime`         | `*/5 * * * *`     | Every 5 minutes, all day  |
+#| `uptime`         | `0 * * * *`       | Every hour, all day       |
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
