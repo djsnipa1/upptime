@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "47.83%",
+    "uptime": "47.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-09": 780,
+      "2025-11-09": 979,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -393,14 +393,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.52%",
+    "uptimeYear": "4.48%",
     "time": 950,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 964,
     "dailyMinutesDown": {
-      "2025-11-09": 780,
+      "2025-11-09": 979,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -802,12 +802,12 @@
     "url": "https://everynoise.com",
     "icon": "https://icons.duckduckgo.com/ip3/everynoise.com.ico",
     "slug": "every-noise",
-    "status": "up",
-    "uptime": "19.40%",
-    "uptimeDay": "19.40%",
-    "uptimeWeek": "19.40%",
-    "uptimeMonth": "19.40%",
-    "uptimeYear": "19.40%",
+    "status": "down",
+    "uptime": "43.52%",
+    "uptimeDay": "43.52%",
+    "uptimeWeek": "43.52%",
+    "uptimeMonth": "43.52%",
+    "uptimeYear": "43.52%",
     "time": 23858,
     "timeDay": 23858,
     "timeWeek": 23858,
@@ -834,7 +834,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-09": 465
+      "2025-11-09": 664
     }
   }
 ]
