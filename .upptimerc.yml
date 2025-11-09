@@ -10,8 +10,6 @@ sites:
     url: https://bin.djsnipa1.repl.co
   - name: lynx.re
     url: https://lynx.re
-  - name: Pastery.net
-    url: https://pastery.net
   - name: EveryNoise
     url: https://everynoise.com
   - name: Playlist Machinery
