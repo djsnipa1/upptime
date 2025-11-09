@@ -12,10 +12,12 @@ sites:
     url: https://lynx.re
   - name: Pastery.net
     url: https://pastery.net
-#  - name: Broken Site
-#    url: https://thissitedoesnotexist.com
-#  - name: Secret Site
-#    url: $SECRET_SITE
+  - name: EveryNoise
+    url: https://everynoise.com
+  - name: Playlist Machinery
+    url: https://playlistmachinery.com
+# - name: Secret Site
+#   url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
