@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-10": 1304,
+      "2025-11-10": 1315,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "46.09%",
+    "uptime": "46.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2025-11-10": 1304,
+      "2025-11-10": 1315,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -803,19 +803,19 @@
     "url": "https://everynoise.com",
     "icon": "https://icons.duckduckgo.com/ip3/everynoise.com.ico",
     "slug": "every-noise",
-    "status": "up",
-    "uptime": "83.19%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "83.19%",
-    "uptimeMonth": "83.19%",
-    "uptimeYear": "83.19%",
+    "status": "down",
+    "uptime": "83.78%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "83.78%",
+    "uptimeMonth": "83.78%",
+    "uptimeYear": "83.78%",
     "time": 25657,
     "timeDay": 27500,
     "timeWeek": 25657,
     "timeMonth": 25657,
     "timeYear": 25657,
     "dailyMinutesDown": {
-      "2025-11-10": 13,
+      "2025-11-10": 0,
       "2025-11-09": 395
     }
   },
@@ -836,7 +836,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-10": 1304,
+      "2025-11-10": 1316,
       "2025-11-09": 1125
     }
   }
