@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 1221,
+      "2026-01-25": 110,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -379,8 +380,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "41.65%",
+    "uptime": "41.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 962,
+    "time": 961,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 1222,
+      "2026-01-25": 110,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -763,8 +764,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -779,10 +779,10 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.51%",
     "time": 967,
-    "timeDay": 746,
-    "timeWeek": 816,
-    "timeMonth": 886,
-    "timeYear": 956,
+    "timeDay": 755,
+    "timeWeek": 792,
+    "timeMonth": 875,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2026-01-13": 21,
       "2026-01-07": 41,
@@ -825,15 +825,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/everynoise.com.ico",
     "slug": "every-noise",
     "status": "up",
-    "uptime": "95.66%",
+    "uptime": "95.67%",
     "uptimeDay": "96.57%",
-    "uptimeWeek": "98.82%",
+    "uptimeWeek": "98.99%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "95.66%",
+    "uptimeYear": "95.67%",
     "time": 27456,
-    "timeDay": 27507,
-    "timeWeek": 27548,
-    "timeMonth": 27486,
+    "timeDay": 27479,
+    "timeWeek": 27553,
+    "timeMonth": 27480,
     "timeYear": 27456,
     "dailyMinutesDown": {
       "2026-01-24": 49,
@@ -877,7 +877,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 1222,
+      "2026-01-25": 110,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
