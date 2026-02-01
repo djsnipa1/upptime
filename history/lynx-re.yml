@@ -1,7 +1,7 @@
 url: https://lynx.re
-status: up
-code: 200
-responseTime: 667
-lastUpdated: 2026-01-31T23:10:48.897Z
+status: down
+code: 403
+responseTime: 863
+lastUpdated: 2026-02-01T17:35:39.563Z
 startTime: 2023-12-08T13:08:21.160Z
 generator: Upptime <https://github.com/upptime/upptime>
