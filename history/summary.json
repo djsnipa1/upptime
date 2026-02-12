@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-12": 1160,
+      "2026-02-12": 1196,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-12": 1160,
+      "2026-02-12": 1196,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -832,9 +832,9 @@
     "url": "https://everynoise.com",
     "icon": "https://icons.duckduckgo.com/ip3/everynoise.com.ico",
     "slug": "every-noise",
-    "status": "up",
+    "status": "down",
     "uptime": "95.69%",
-    "uptimeDay": "55.93%",
+    "uptimeDay": "55.92%",
     "uptimeWeek": "89.77%",
     "uptimeMonth": "97.13%",
     "uptimeYear": "95.69%",
@@ -892,7 +892,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-12": 1160,
+      "2026-02-12": 1197,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
