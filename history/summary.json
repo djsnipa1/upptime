@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-23": 1253,
+      "2026-03-24": 119,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -379,8 +380,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "38.76%",
+    "uptime": "38.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 891,
+    "time": 868,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-23": 1253,
+      "2026-03-24": 119,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -763,8 +764,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.44%",
     "time": 944,
-    "timeDay": 816,
-    "timeWeek": 742,
-    "timeMonth": 1095,
+    "timeDay": 647,
+    "timeWeek": 703,
+    "timeMonth": 1088,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2026-03-11": 40,
@@ -834,14 +834,14 @@
     "slug": "every-noise",
     "status": "up",
     "uptime": "95.73%",
-    "uptimeDay": "87.29%",
+    "uptimeDay": "90.19%",
     "uptimeWeek": "97.15%",
     "uptimeMonth": "96.15%",
     "uptimeYear": "95.73%",
     "time": 27507,
-    "timeDay": 27546,
-    "timeWeek": 27527,
-    "timeMonth": 27662,
+    "timeDay": 27425,
+    "timeWeek": 27525,
+    "timeMonth": 27661,
     "timeYear": 27507,
     "dailyMinutesDown": {
       "2026-03-23": 142,
@@ -915,7 +915,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-23": 1253,
+      "2026-03-24": 120,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
