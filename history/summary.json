@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "43.62%",
+    "uptime": "43.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-03": 167,
+      "2026-05-04": 164,
+      "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
@@ -379,8 +380,7 @@
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
-      "2025-05-05": 1440,
-      "2025-05-04": 1440
+      "2025-05-05": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "36.98%",
+    "uptime": "36.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-03": 167,
+      "2026-05-04": 164,
+      "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
@@ -763,8 +764,7 @@
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
-      "2025-05-05": 1440,
-      "2025-05-04": 1440
+      "2025-05-05": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.41%",
-    "time": 976,
-    "timeDay": 711,
-    "timeWeek": 815,
-    "timeMonth": 1162,
-    "timeYear": 952,
+    "time": 983,
+    "timeDay": 4692,
+    "timeWeek": 1357,
+    "timeMonth": 1278,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2026-04-14": 215,
       "2026-04-11": 35,
@@ -824,8 +824,7 @@
       "2025-06-21": 17,
       "2025-06-19": 61,
       "2025-05-26": 28,
-      "2025-05-12": 36,
-      "2025-05-04": 28
+      "2025-05-12": 36
     }
   },
   {
@@ -834,15 +833,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/everynoise.com.ico",
     "slug": "every-noise",
     "status": "up",
-    "uptime": "95.12%",
-    "uptimeDay": "71.79%",
-    "uptimeWeek": "83.83%",
+    "uptime": "95.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.25%",
     "uptimeMonth": "86.74%",
-    "uptimeYear": "95.12%",
+    "uptimeYear": "95.14%",
     "time": 27514,
-    "timeDay": 27443,
-    "timeWeek": 27662,
-    "timeMonth": 27557,
+    "timeDay": 27335,
+    "timeWeek": 27629,
+    "timeMonth": 27552,
     "timeYear": 27514,
     "dailyMinutesDown": {
       "2026-05-02": 498,
@@ -932,7 +931,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-03": 167,
+      "2026-05-04": 165,
+      "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
