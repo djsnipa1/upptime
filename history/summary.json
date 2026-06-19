@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "42.63%",
+    "uptime": "42.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 230,
+      "2026-06-19": 250,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -379,8 +380,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440
+      "2025-06-20": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "35.13%",
+    "uptime": "35.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 230,
+      "2026-06-19": 250,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -763,8 +764,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440
+      "2025-06-20": 1440
     }
   },
   {
@@ -774,17 +774,16 @@
     "slug": "lynx-re",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "95.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.34%",
     "time": 930,
-    "timeDay": 845,
-    "timeWeek": 731,
-    "timeMonth": 757,
+    "timeDay": 618,
+    "timeWeek": 750,
+    "timeMonth": 747,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2025-06-19": 61,
       "2025-06-21": 17,
       "2025-07-05": 21,
       "2025-07-21": 1250,
@@ -835,16 +834,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/everynoise.com.ico",
     "slug": "every-noise",
     "status": "up",
-    "uptime": "96.10%",
+    "uptime": "96.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "96.10%",
-    "time": 27544,
-    "timeDay": 27686,
-    "timeWeek": 27456,
-    "timeMonth": 27455,
-    "timeYear": 27544,
+    "uptimeYear": "96.12%",
+    "time": 27543,
+    "timeDay": 27323,
+    "timeWeek": 27465,
+    "timeMonth": 27443,
+    "timeYear": 27543,
     "dailyMinutesDown": {
       "2025-11-14": 366,
       "2025-11-15": 221,
@@ -935,7 +934,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 230,
+      "2026-06-19": 250,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
