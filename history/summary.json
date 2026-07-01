@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 637,
+      "2026-07-01": 801,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 637,
+      "2026-07-01": 801,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -772,17 +772,17 @@
     "url": "https://lynx.re",
     "icon": "https://icons.duckduckgo.com/ip3/lynx.re.ico",
     "slug": "lynx-re",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.36%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "99.32%",
     "time": 933,
-    "timeDay": 678,
-    "timeWeek": 741,
-    "timeMonth": 765,
-    "timeYear": 953,
+    "timeDay": 648,
+    "timeWeek": 725,
+    "timeMonth": 761,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2025-07-05": 21,
       "2025-07-21": 1250,
@@ -825,7 +825,7 @@
       "2026-06-05": 272,
       "2026-06-18": 6,
       "2026-06-17": 61,
-      "2026-07-01": 1
+      "2026-07-01": 164
     }
   },
   {
@@ -934,7 +934,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 637,
+      "2026-07-01": 801,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
