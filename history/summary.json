@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "41.91%",
+    "uptime": "41.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 155,
+      "2026-07-24": 152,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -379,8 +380,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2025-07-24": 1440
+      "2025-07-25": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "33.85%",
+    "uptime": "33.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 155,
+      "2026-07-24": 152,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
@@ -763,8 +764,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2025-07-24": 1440
+      "2025-07-25": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.58%",
     "time": 940,
-    "timeDay": 810,
-    "timeWeek": 784,
-    "timeMonth": 883,
+    "timeDay": 553,
+    "timeWeek": 751,
+    "timeMonth": 876,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2025-08-14": 25,
@@ -831,16 +831,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/everynoise.com.ico",
     "slug": "every-noise",
     "status": "up",
-    "uptime": "96.65%",
+    "uptime": "96.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "96.65%",
-    "time": 27571,
-    "timeDay": 27445,
-    "timeWeek": 27454,
-    "timeMonth": 27888,
-    "timeYear": 27571,
+    "uptimeYear": "96.67%",
+    "time": 27570,
+    "timeDay": 27513,
+    "timeWeek": 27462,
+    "timeMonth": 27882,
+    "timeYear": 27570,
     "dailyMinutesDown": {
       "2025-11-15": 221,
       "2025-11-16": 155,
@@ -932,7 +932,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 155,
+      "2026-07-24": 152,
+      "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
