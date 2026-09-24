@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.writeguard.com.ico",
     "slug": "writeguard",
     "status": "down",
-    "uptime": "40.69%",
+    "uptime": "40.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 204,
+      "2026-09-24": 193,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -379,8 +380,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.djsnipa1.repl.co.ico",
     "slug": "bin",
     "status": "down",
-    "uptime": "31.79%",
+    "uptime": "31.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 204,
+      "2026-09-24": 193,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -763,8 +764,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -778,13 +778,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 923,
-    "timeDay": 666,
-    "timeWeek": 793,
-    "timeMonth": 813,
-    "timeYear": 912,
+    "time": 924,
+    "timeDay": 1005,
+    "timeWeek": 825,
+    "timeMonth": 815,
+    "timeYear": 911,
     "dailyMinutesDown": {
-      "2025-09-24": 34,
       "2025-09-25": 40,
       "2025-10-14": 38,
       "2025-10-26": 24,
@@ -831,11 +830,11 @@
     "uptimeWeek": "97.14%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "97.26%",
-    "time": 27331,
-    "timeDay": 5868,
-    "timeWeek": 14791,
-    "timeMonth": 24503,
-    "timeYear": 27331,
+    "time": 27283,
+    "timeDay": 5915,
+    "timeWeek": 12000,
+    "timeMonth": 23867,
+    "timeYear": 27283,
     "dailyMinutesDown": {
       "2025-11-17": 795,
       "2025-11-18": 610,
@@ -928,7 +927,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 204,
+      "2026-09-24": 193,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
